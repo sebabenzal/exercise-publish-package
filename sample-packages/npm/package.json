@@ -1,3 +1,5 @@
 {
-  "your": "json config here"
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@sebabenzal"
+  },
 }
