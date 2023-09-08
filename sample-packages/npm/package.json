@@ -1,5 +1,10 @@
 {
+  "name": "@sebabenzal/exercise-publish-package"
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@sebabenzal"
   },
+  "repository": {
+    "url": "git://github.com/sebabenzal/exercise-publish-package.git"
+  },
+  
 }
